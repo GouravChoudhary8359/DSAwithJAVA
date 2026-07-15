@@ -3,7 +3,7 @@ package Java_Basics;
 import java.util.Scanner;
 
 public class Even_odd {
-    static void main() {
+    public static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.println(" Enter number to check even ot odd :");
         int a = sc.nextInt();

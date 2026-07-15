@@ -3,7 +3,7 @@ package Java_Basics;
 import java.util.Scanner;
 
 public class Greatest_number_among_3_numbers {
-    static void main() {
+    public static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter First Number: ");
         int a = sc.nextInt();
