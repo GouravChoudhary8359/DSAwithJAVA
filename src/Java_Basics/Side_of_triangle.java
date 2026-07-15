@@ -14,7 +14,7 @@ public class Side_of_triangle {
         if(a+b>c && b+c>a && c+a>b){
             System.out.println("valid Triangle !!");
         }else {
-            System.out.println(" Invalid Triangle !!");
+            System.out.println(" Invalid Triangle !!!");
         }
 
     }

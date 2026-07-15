@@ -16,7 +16,7 @@ public class Greatest_number_among_3_numbers {
         else if (b>c && b>a)
             System.out.println(" Greatest no is :"+b);
         else
-            System.out.println("Greatest no is : "+c);
+            System.out.println("Greatest number is : "+c);
 
 
     }

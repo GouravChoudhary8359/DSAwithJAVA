@@ -14,7 +14,7 @@ public class profit_loss {
         if(result > 0){
             System.out.println("profit of "+result);
         } else if (result ==0) {
-            System.out.println(" neutral no profit and loss");
+            System.out.println("  no profit and loss");
         }else{
             System.out.println("loss of rupees : "+(-result));
         }
